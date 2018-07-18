@@ -6,7 +6,7 @@
 2. Implement a yield statement in `layout.erb`
 
 ## Layout
-
+#learn 
 If you look at pretty much every website, you'll notice that there are things that exist across all of the site's pages. Typically, the navigation bar and the footer content stay the same. There may also be menu options that stay consistent across all pages.
 
 You could copy and paste the HTML and ERB for nav bar and make sure that code is in every single erb file, but that isn't at all DRY.
